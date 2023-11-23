@@ -1,9 +1,10 @@
 # Web-Collection
+
 ## 常用资源站点整合
 
 某些网站可能需要VPN
 
-> 最后编辑 2023年10月25日19:35:17
+> 2023年11月23日20:25:20
 
 ### 游戏
 
@@ -29,7 +30,7 @@ acgngames：[https://acgngames.net](https://acgngames.net/)
 
 量子acg：[https://lzacg.one](https://lzacg.one/)
 
-次元狗：https://www.acgndog.com/
+次元狗：https://www.acgndog.com
 
 ### 游戏补丁
 
@@ -67,7 +68,11 @@ n站：[https://nhentai.net](https://nhentai.net/)
 
 [https://himebon.blog](https://himebon.blog/)
 
-https://hitomi.la/
+https://hitomi.la
+
+https://kemono.su
+
+[https://porn-images-xxx.com](https://porn-images-xxx.com)
 
 ### 3D/MMD
 
@@ -79,6 +84,8 @@ Jable：[http://jable.tv](http://jable.tv/)
 
 鲍鱼:[http://29tun.com](http://29tun.com/)
 
+https://xchina.co
+
 ### 搜图/查询
 
 Yandex：[https://yandex.com/images](https://yandex.com/images)
@@ -89,13 +96,15 @@ trace：[https://trace.moe](https://trace.moe/)
 
 saucenao：[https://saucenao.com](https://saucenao.com/)
 
-
+搜gal人物：[https://ai.animedb.cn](https://ai.animedb.cn/)
 
 ### ASMR
 
 [https://www.hentaiasmr.moe](https://www.hentaiasmr.moe/)
 
 [japaneseasmr.com](http://japaneseasmr.com)
+
+https://asmr.one
 
 ### 图片Api
 
@@ -105,8 +114,20 @@ saucenao：[https://saucenao.com](https://saucenao.com/)
 
 [https://www.uptodown.com](https://www.uptodown.com)
 
-
-
 ### 磁力
 
-预览内容：https://whatslink.info
+##### 预览内容：
+
+https://whatslink.info
+
+##### 查询：
+
+https://www.tokyotosho.info
+
+https://sukebei.nyaa.si
+
+### 混合资源
+
+https://tlsacg.xyz
+
+https://www.mtuacg.com
